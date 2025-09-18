@@ -15,10 +15,15 @@ Note: all xlsx include "sheet1" and "sheet2", where sheet 1 includes individual 
 通过网盘分享的文件：ISRGen-QA(1).zip
 链接: https://pan.baidu.com/s/1m0CQE6NN-32-UZlLLt_yjA?pwd=kqhf 提取码: kqhf 
 
-#Reference
+# Reference
+
 @article{li2025vquala,
+
   title={Vquala 2025 challenge on image super-resolution generated content quality assessment: Methods and results},
+  
   author={Li, Yixiao and Li, Xin and Zhou, Chris Wei and Xing, Shuo and Amirpour, Hadi and Hao, Xiaoshuai and Yue, Guanghui and Zhao, Baoquan and Liu, Weide and Yang, Xiaoyuan and others},
+  
   journal={arXiv preprint arXiv:2509.06413},
+  
   year={2025}
 }
