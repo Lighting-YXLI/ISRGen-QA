@@ -18,12 +18,8 @@ Note: all xlsx include "sheet1" and "sheet2", where sheet 1 includes individual 
 # Reference
 
 @article{li2025vquala,
-
   title={Vquala 2025 challenge on image super-resolution generated content quality assessment: Methods and results},
-  
   author={Li, Yixiao and Li, Xin and Zhou, Chris Wei and Xing, Shuo and Amirpour, Hadi and Hao, Xiaoshuai and Yue, Guanghui and Zhao, Baoquan and Liu, Weide and Yang, Xiaoyuan and others},
-  
   journal={arXiv preprint arXiv:2509.06413},
-  
   year={2025}
 }
